@@ -10,9 +10,9 @@ A modern, fully responsive portfolio website showcasing expertise in **IBM TRIRI
 - [Tech Stack](#-tech-stack)
 - [Project Structure](#-project-structure)
 - [Installation & Setup](#-installation--setup)
-- [Sections Overview](#-sections--overview)
-- [Design Features](#-design--features)
-- [Responsive Design](#-responsive--design)
+- [Sections Overview](#-sections-overview)
+- [Design Features](#-design-features)
+- [Responsive Design](#-responsive-design)
 - [License](#-license)
 - [Support](#-support)
 - [Credits & Acknowledgments](#-credits--acknowledgments)
@@ -74,6 +74,9 @@ Portfolio/
 ├── images/
 │   └── my_pic.jpg         # Profile picture asset
 └── .gitignore             # Git ignore rules
+
+
+---
 
 ## 📥 Installation & Setup
 
