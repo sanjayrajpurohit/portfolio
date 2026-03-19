@@ -6,13 +6,13 @@ A modern, fully responsive portfolio website showcasing expertise in **IBM TRIRI
 
 ## 📋 Table of Contents
 
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
-- [Installation & Setup](#installation--setup)
-- [Sections Overview](#sections-overview)
-- [Design Features](#design-features)
-- [Responsive Design](#responsive-design)
+- [Features](#-features)
+- [Tech Stack](#-tech--stack)
+- [Project Structure](#-project--structure)
+- [Installation & Setup](#-installation--setup)
+- [Sections Overview](#-sections--overview)
+- [Design Features](#-design--features)
+- [Responsive Design](#-responsive--design)
 - [License](#-license)
 - [Support](#-support)
 - [Credits & Acknowledgments](#-credits--acknowledgments)
