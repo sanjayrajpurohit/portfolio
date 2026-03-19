@@ -11,7 +11,6 @@ A modern, fully responsive portfolio website showcasing expertise in **IBM TRIRI
 - [Project Structure](#-project-structure)
 - [Installation & Setup](#-installation--setup)
 - [Sections Overview](#-sections-overview)
-- [Design Features](#-design-features)
 - [Responsive Design](#-responsive-design)
 - [License](#-license)
 - [Support](#-support)
@@ -61,7 +60,7 @@ A modern, fully responsive portfolio website showcasing expertise in **IBM TRIRI
 
 ## 📁 Project Structure
 
-
+```
 Portfolio/
 │
 ├── portfolio.html          # Main HTML file (primary working file)
@@ -74,7 +73,7 @@ Portfolio/
 ├── images/
 │   └── my_pic.jpg         # Profile picture asset
 └── .gitignore             # Git ignore rules
-
+```
 
 ---
 
